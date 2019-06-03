@@ -98,7 +98,6 @@ div#comparison {
 	  position: relative;
 	  outline: none;    
    }
-   RGB (48, 172, 251)						 
   input[type=range]::active { 
 	border: none; 
 	outline: none;
